@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://januzellij.github.io/'
 languageCode = 'en-us'
 title = 'Beneath the Piled Centuries'
 theme = "mini"
