@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2022-09-11T10:32:12-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2022-09-11T10:32:12-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/objections-to-utilitarianism/</loc>
+    <lastmod>2022-09-11T10:32:12-05:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/facts-suck-and-dont-matter/</loc>
+    <lastmod>2020-01-03T15:14:00-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/difficulties-motivating-mathematics/</loc>
+    <lastmod>2018-08-03T20:15:00-06:00</lastmod>
+  </url><url>
+    <loc>http://example.org/about/</loc>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+  </url>
+</urlset>

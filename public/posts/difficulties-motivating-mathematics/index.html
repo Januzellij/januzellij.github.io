@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <title>Difficulties Motivating Mathematics | Beneath the Piled Centuries</title>
+
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">    
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+<meta name="description" content="K-12 math education has major issues. Teaching is extremely formulaic, little time is spent on proofs of basic results, and creativity is rarely encouraged. But this is a solvable problem, since the barriers to fixing these problems are bureaucratic: we know how to teach math well, it&rsquo;s getting people to do it widespread at the K-12 level that&rsquo;s difficult.
+I’d like to instead talk about a difficulty that arises when motivating math at a higher level (graduate level or research level).">
+<meta name="generator" content="Hugo 0.92.0" />
+
+
+  <META NAME="ROBOTS" CONTENT="NOINDEX, NOFOLLOW">
+
+
+<link rel="stylesheet" href="/css/style.css">
+
+
+
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon" />
+
+
+
+
+  
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.css" integrity="sha384-MlJdn/WNKDGXveldHDdyRP1R4CTHr3FeuDNfhsLPYrq2t0UBkUdK2jyTnXPEK1NQ" crossorigin="anonymous">
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/katex.min.js" integrity="sha384-VQ8d8WVFw0yHhCk5E8I86oOhv48xLpnDZx5T9GogA/Y84DcCKWXDmSDfn13bzFZY" crossorigin="anonymous"></script>
+
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.15.2/dist/contrib/auto-render.min.js" integrity="sha384-+XBljXPPiv+OzfbB3cVmLHf4hdUFHlWNZN5spNQ7rmHTXpd7WvJum6fIACpNNfIR" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+
+
+
+
+
+  </head>
+
+  <body>
+    <nav class="navigation">
+	
+		<a href="/"> <span class="arrow">←</span>Home</a>
+	
+	<a href="/posts">Archive</a>
+	<a href="/tags">Tags</a>
+	<a href="/about">About</a>
+
+	
+
+	
+</nav>
+
+
+    <main class="main">
+      
+
+<section id="single">
+    <h1 class="title">Difficulties Motivating Mathematics</h1>
+
+    <div class="tip">
+        <time datetime="2018-08-03 20:15:00 -0600 -0600">Aug 3, 2018</time>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          765 words
+        </span>
+        <span class="split">
+          ·
+        </span>
+        <span>
+          4 minute read
+        </span>
+    </div>
+
+    
+    
+
+
+    <div class="content">
+      <p>K-12 math education has major issues. Teaching is extremely formulaic, little time is spent on proofs of basic results, and creativity is rarely encouraged. But this is a solvable problem, since the barriers to fixing these problems are bureaucratic: we know how to teach math well, it&rsquo;s getting people to do it widespread at the K-12 level that&rsquo;s difficult.</p>
+<p>I’d like to instead talk about a difficulty that arises when motivating math at a higher level (graduate level or research level). Mathematicians today are still somewhat motivated by classical questions. Number theorists want to study solutions of Diophantine equations, algebraic geometers want to study algebraic curves, analysts want to solve partial differential equations, etc. But the rub here is that over the years mathematicians have built this giant collection of machinery and definitions to better attack these classical questions. and so may spend the vast majority of their time and energy in this world of higher machinery. Sure, you have instances where you get an explicit connection; the most famous being the proof of Fermat’s Last Theorem, which came about via advances in showing modularity lifting theorems for certain Galois representations. However, this is an exception, which causes a curious expositional problem.</p>
+<p>We want to say we’re motivated by these classical questions when in fact the immediate object of our eye is often only tangentially related. Furthermore, it may be the case that we don’t care about the classical questions at all! While machinery may be introduced to solve classical questions, it can be sufficiently interesting to study independently. As an example, consider the class group of a number field. This is a (finite) group that contains information regarding how ideals factor in the ring of integers of a number field. Computing these groups is helpful in solving classical questions: for example, if I want to solve \( xy = z^3 \) over the ring of integers of a number field, and I know \( x \) and \( y \) are coprime, I can use the class group to narrow down what \( x \) and \( y \) can be (in the best case of course, they’re third powers).</p>
+<p>However, once we have these class groups, we can ask questions about them. One fertile source of questions is the following:  it’s a well known theorem that there are finitely many number fields of discriminant \( d \) and degree \( n \). We can then order number fields of a fixed degree by discriminant and do some counting. Let \( R_n(d) \) be the number of number fields of discriminant less than \( d \), of a fixed degree \( n \) whose class group has some property: nontrivial \( k \)-torsion, generated by \( k \) elements, equal to some fixed group \( G \) etc. Now we can ask about the asymptotics of \( R_n(d) \) as \( d \) gets large compared to \( C_n(d) \): the number of number fields of discriminant less than \( d \), of a fixed degree \( n \). This has been the subject of a lot of recent work (buzzwords: Cohen-Lenstra heuristics, arithmetic statistics). But how related to classical questions are these new questions? If I was a number theorist working on these distribution questions, how easily can I motivate them, given that they have little connection to the original impetus for defining class groups?</p>
+<p>This isn&rsquo;t a general academia problem, but a math-specific problem. A molecular biologist working on gene editing doesn’t have to define &lsquo;gene&rsquo; to a layman, and can explain the direction of their research. Physicists may find this a bit harder, but still doable: a cosmologist can say they study the formation of galaxies, or black holes, or what the early universe looked like. This is, once again, simultaneously <strong>accessible</strong> and <strong>correct</strong> in giving the broad idea of their research. But what on earth is someone working in derived algebraic geometry or the Langlands program supposed to say? Merely to define the objects they study would take hours. These objects certainly grew out of the study of classical questions, but outlining that connection isn’t something that is worth it in a short, expositional setting. There are some exceptions (a knot theorist, cryptographer or combinatorialist has a better chance) but plenty of thorny areas.</p>
+<p>I’m not saying that we’ve gotten our heads lost in the clouds of abstraction: this mass of higher machinery is important and beautiful and structured and has every right to be considered and studied as mathematics. However, this is a uniquely challenging expositional situation for mathematicians.</p>
+
+    </div>
+
+    
+    
+    
+
+</section>
+
+
+    </main>
+    
+    <footer id="footer">
+    
+
+    <div class="copyright">
+    
+       © Copyright 
+       2022 
+       <span class="split">
+        <svg fill="#bbbbbb" width="15" height="15" version="1.1" id="heart-15" xmlns="http://www.w3.org/2000/svg" width="15px" height="15px" viewBox="0 0 15 15">
+  <path d="M13.91,6.75c-1.17,2.25-4.3,5.31-6.07,6.94c-0.1903,0.1718-0.4797,0.1718-0.67,0C5.39,12.06,2.26,9,1.09,6.75&#xA;&#x9;C-1.48,1.8,5-1.5,7.5,3.45C10-1.5,16.48,1.8,13.91,6.75z"/>
+</svg>
+       </span>
+       
+    
+    </div>
+
+    
+      <div class="powerby">
+        Powered by <a href='http://www.gohugo.io/'>Hugo</a> Theme By <a href='https://github.com/nodejh/hugo-theme-cactus-plus'>nodejh</a>
+      </div>
+    
+</footer>
+
+
+
+  </body>
+</html>
