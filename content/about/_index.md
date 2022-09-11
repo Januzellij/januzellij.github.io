@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-My name is Jake Januzelli and I use this site as a space to write on whatever I'm currently thinking about; I find that setting things down in writing forces me to clarify them.
+My name is Jake Januzelli, and I use this site as a space to write on whatever I'm currently thinking about; setting things down in writing forces me to clarify them.
 
 Here is an incomplete list of things I'm interested in:
 
