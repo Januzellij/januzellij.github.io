@@ -49,7 +49,7 @@ The moral framework that we are equipped with through instincts and moral intuit
 
 To take a concrete example, utilitarianism dictates that in many cases, wealthier people will be more moral - not because of any actual moral facets of their character, but by the mere fact that they have more discretionary capital available to them.
 
-Suppose John makes $50k a year and Jack makes $60k a year. They both have the same amount of 'hard' expenses (food, rent, car, etc.). Let's say those are $35k a year. They both allocate the remaining $25k the same percentage-wise. As long as the total utility of this discretionary spending is positive, Jack is more moral by utilitarian standards, simply because he has a larger pool to spend.
+Suppose John makes $50k a year and Jack makes $60k a year. They both have the same amount of 'hard' expenses (food, rent, car, etc.). Let's say those are $35k a year. They both allocate the remaining money the same percentage-wise. As long as the total utility of this discretionary spending is positive, Jack is more moral by utilitarian standards, simply because he has a larger pool to spend.
 
 This kind of conclusion is directly antithetical to social cohesion, and intertwines unpleasantly with the undeniable fact that the average utilitarian is a rich tech worker. Utilitarianism is no stranger to [repugnant conclusions](https://en.wikipedia.org/wiki/Mere_addition_paradox) but it's hard to look at the inevitable consequences of utilitarianism and see not a rational, empirical system for judging moral worth, but yet another institutionalized moral system that attracts adherents who benefit most from it.
 
