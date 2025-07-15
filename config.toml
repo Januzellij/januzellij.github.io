@@ -6,8 +6,8 @@
 #=========================================================================================
 
 base_url = "https://januzellij.github.io"
-title = "xxxx"
-description = "xxxx xxxx xxxx"
+title = "Jake Januzelli"
+description = "I am a PhD student at Columbia University working on the foundations of cryptography and the security of practical cryptographic protocols."
 default_language = "en"
 theme = "serene"
 output_dir = "docs"
