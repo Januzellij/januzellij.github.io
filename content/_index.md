@@ -11,7 +11,7 @@ footer = true
 name = "Jake Januzelli "
 # id = "jakej"
 bio = "Cryptographer @ Columbia University"
-avatar = "avatar.JPG"
+avatar = "catlick.jpg"
 links = [
     { name = "Email", icon = "email", url = "mailto:jj3544@columbia.edu" },
 ]
