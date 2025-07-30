@@ -25,7 +25,7 @@ date_format = "%b %-d, %Y"
 
 I am a computer scientist working on the foundations of cryptography and the security of practical cryptographic protocols. 
 
-Currently I am a PhD student in computer science at Columbia University, advised by [James Bartusek](https://sites.google.com/view/jamesbartusek). I completed my masters in computer science at Oregon State University, co-advised by [Jiayu Xu](https://sites.google.com/view/jiayux/home) and [Mike Rosulek](https://web.engr.oregonstate.edu/~rosulekm/). Before that I worked as a software engineer at [Epic](https://www.epic.com), and completed an undergraduate degree in mathematics from Cornell University.
+Currently I am a PhD student in computer science at Columbia University, advised by [James Bartusek](https://sites.google.com/view/jamesbartusek). I completed my masters in computer science at Oregon State University, co-advised by [Jiayu Xu](https://sites.google.com/view/jiayux/home) and [Mike Rosulek](https://web.engr.oregonstate.edu/~rosulekm/). Before that I worked as a software engineer and completed an undergraduate degree in mathematics from Cornell University.
 
 My other interests include cinema, Brazilian jiu-jitsu, and science fiction.
 
