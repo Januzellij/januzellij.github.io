@@ -31,12 +31,11 @@ My other interests include cinema, Brazilian jiu-jitsu, and science fiction.
 
 Email: \[lastname\]\[firstinitial\]@gmail.com
 
-# Preprints
+# Published papers
 
 - **A Complete Characterization of One-More Assumptions In the Algebraic Group Model**  
-*Jake Januzelli, Jiayu Xu*  ([eprint](https://eprint.iacr.org/2024/1954))
-
-# Published papers
+*Jake Januzelli, Jiayu Xu*  ([eprint](https://eprint.iacr.org/2024/1954))  
+Asiacrypt 2025
 
 - **Lower Bounds for Garbled Circuits from Shannon-Type Information Inequalities**  
 *Jake Januzelli, Mike Rosulek, Lawrence Roy* ([eprint](https://eprint.iacr.org/2025/876))  
