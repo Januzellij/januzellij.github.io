@@ -23,9 +23,9 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-I am a computer scientist working on the foundations of cryptography and the security of practical cryptographic protocols. 
+I am a computer scientist working on the foundations of cryptography and the security of practical cryptographic protocols.
 
-Currently I am a PhD student in the [CS Theory](https://theory.cs.columbia.edu) group at Columbia University, advised by [James Bartusek](https://sites.google.com/view/jamesbartusek). I completed my masters in computer science at Oregon State University, co-advised by [Jiayu Xu](https://sites.google.com/view/jiayux/home) and [Mike Rosulek](https://garbledcircus.com). Before that I worked as a software engineer and completed my undergraduate degree in mathematics at Cornell University.
+Currently I am a PhD student at Columbia University, advised by [James Bartusek](https://sites.google.com/view/jamesbartusek). I am a member of the [CS Theory group](https://theory.cs.columbia.edu) and [Crypto Lab](https://www.cs.columbia.edu/crypto/index.html), and I co-organize the [Theory Student Seminar](https://theory.cs.columbia.edu/theory-student-seminar.html). I completed my masters in computer science at Oregon State University, co-advised by [Jiayu Xu](https://sites.google.com/view/jiayux/home) and [Mike Rosulek](https://garbledcircus.com). Before that I worked as a software engineer and completed my undergraduate degree in mathematics at Cornell University.
 
 My other interests include cinema, Brazilian jiu-jitsu, and science fiction.
 
