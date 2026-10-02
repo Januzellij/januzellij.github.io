@@ -13,7 +13,7 @@ name = "Jake Januzelli "
 bio = "Cryptographer @ Columbia University"
 avatar = "catlick.jpg"
 links = [
-    { name = "Email", icon = "email", url = "mailto:jj3544@columbia.edu" },
+    { name = "Email", icon = "email", url = "mailto:januzellij@gmail.com" },
 ]
 
 # Show a few recent posts in home page
@@ -23,15 +23,20 @@ recent_more_text = "more »"
 date_format = "%b %-d, %Y"
 +++
 
-I am a computer scientist working on the foundations of cryptography and the security of practical cryptographic protocols.
+I am a computer scientist working on the foundations of cryptography and the security of practical cryptographic protocols. My current interests are in the aspects of post-quantum cryptography not motivated by Shor's algorithm; e.g quantum rewinding and the quantum random oracle model.
 
-Currently I am a PhD student at Columbia University, advised by [James Bartusek](https://sites.google.com/view/jamesbartusek). I am a member of the [CS Theory group](https://theory.cs.columbia.edu) and [Crypto Lab](https://www.cs.columbia.edu/crypto/index.html), and I co-organize the [Theory Student Seminar](https://theory.cs.columbia.edu/theory-student-seminar.html). I completed my masters in computer science at Oregon State University, co-advised by [Jiayu Xu](https://sites.google.com/view/jiayux/home) and [Mike Rosulek](https://garbledcircus.com). Before that I worked as a software engineer and completed my undergraduate degree in mathematics at Cornell University.
+Currently I am a second-year PhD student at Columbia University, where I am advised by [James Bartusek](https://sites.google.com/view/jamesbartusek). I am a member of the [CS Theory group](https://theory.cs.columbia.edu) and [Crypto Lab](https://www.cs.columbia.edu/crypto/index.html), and I co-organize the [Theory Student Seminar](https://theory.cs.columbia.edu/theory-student-seminar.html). I completed my masters in computer science at Oregon State University, co-advised by [Jiayu Xu](https://sites.google.com/view/jiayux/home) and [Mike Rosulek](https://garbledcircus.com). Before that I worked as a software engineer at Epic ([this one](https://www.epic.com/), not [that one](https://www.epicgames.com/site/home)) and completed my undergraduate degree in mathematics at Cornell University.
 
-My other interests include cinema, Brazilian jiu-jitsu, and science fiction.
+My other interests include movies, Brazilian jiu-jitsu, and science fiction.
 
 Email: \[lastname\]\[firstinitial\]@gmail.com
 
-# Published papers
+# Research Philosophy
+- [You and your research](https://web.archive.org/web/20260514070618/https://www.cs.utexas.edu/~dahlin/bookshelf/hamming.html) - Richard Hamming
+- [Does one have to be a genius to do maths?](https://web.archive.org/web/20260101045544/https://terrytao.wordpress.com/career-advice/does-one-have-to-be-a-genius-to-do-maths/) - Terence Tao
+
+
+# Publications
 
 - **A Complete Characterization of One-More Assumptions In the Algebraic Group Model**  
 *Jake Januzelli, Jiayu Xu*  ([eprint](https://eprint.iacr.org/2024/1954))  
